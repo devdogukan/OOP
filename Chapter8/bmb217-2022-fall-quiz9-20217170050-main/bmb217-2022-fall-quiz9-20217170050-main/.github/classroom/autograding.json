@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "main.py",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "25000 HP\r\n11150 Lenovo\r\n66200 Dell\r\n5000 Casper",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}

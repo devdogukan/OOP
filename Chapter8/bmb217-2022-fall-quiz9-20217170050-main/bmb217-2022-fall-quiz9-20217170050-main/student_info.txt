@@ -1,0 +1,3 @@
+student no: 20217170050
+name: Doğukan
+surname: AKSOY

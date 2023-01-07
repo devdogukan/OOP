@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "main.py",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "Person ID:987, Name:tarkan, Surname:tevetoglu\r\nPerson ID:654, Name:zeynep, Surname:sahin\r\nPerson ID:852, Name:kerem, Surname:uysal\r\nPerson ID:123, Name:ali, Surname:yilmaz\r\nPerson ID:234, Name:ayse, Surname:aslan\r\nPerson ID:345, Name:fatma, Surname:kaplan",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}

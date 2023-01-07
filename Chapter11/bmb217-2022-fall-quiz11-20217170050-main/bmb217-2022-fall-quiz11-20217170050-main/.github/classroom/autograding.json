@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "main.py",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "ad:elif,soyad:aslan,bakiye140\r\nadres:osmaniye-merkez\r\n*yemek:kuru fasulye,25tl\r\n*yemek:pilav,20tl\r\n*yemek:cacik,15tl\r\n\r\nad:mehmet,soyad:sakin,bakiye10\r\nadres:adana-seyhan\r\n*yemek:kebab,80tl\r\n*yemek:baklava,60tl\r\n",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
